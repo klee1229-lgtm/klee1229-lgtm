@@ -15,7 +15,7 @@ Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). 
   <img src="assets/card-wmata.svg" width="49%" alt="WMATA Transit Performance"/>
 </p>
 <p>
-  <img src="assets/card-airline.svg" width="49%" alt="Airline Fare Analysis"/>
+  <a href="https://github.com/klee1229-lgtm/airline-fare-analysis"><img src="assets/card-airline.svg" width="49%" alt="Airline Fare Analysis"/></a>
   <img src="assets/card-chicago.svg" width="49%" alt="Chicago Traffic Safety"/>
 </p>
 <p>
