@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320">
+<rect width="1200" height="320" rx="16" fill="#0F1B2D"/>
+<line x1="740" y1="100" x2="1150" y2="100" stroke="#24384F" stroke-width="1"/><line x1="740" y1="140" x2="1150" y2="140" stroke="#24384F" stroke-width="1"/><line x1="740" y1="180" x2="1150" y2="180" stroke="#24384F" stroke-width="1"/><line x1="740" y1="220" x2="1150" y2="220" stroke="#24384F" stroke-width="1"/><line x1="740" y1="260" x2="1150" y2="260" stroke="#24384F" stroke-width="1"/>
+<rect x="760" y="200" width="34" height="60" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="808" y="175" width="34" height="85" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="856" y="190" width="34" height="70" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="904" y="150" width="34" height="110" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="952" y="165" width="34" height="95" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="1000" y="120" width="34" height="140" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="1048" y="135" width="34" height="125" rx="4" fill="#5FB3B3" opacity="0.55"/><rect x="1096" y="90" width="34" height="170" rx="4" fill="#F2A541" opacity="1"/>
+<polyline points="777.0,182 825.0,157 873.0,172 921.0,132 969.0,147 1017.0,102 1065.0,117 1113.0,72" fill="none" stroke="#F4F1EA" stroke-width="2" opacity="0.8"/>
+<circle cx="777.0" cy="182" r="4" fill="#F4F1EA"/><circle cx="825.0" cy="157" r="4" fill="#F4F1EA"/><circle cx="873.0" cy="172" r="4" fill="#F4F1EA"/><circle cx="921.0" cy="132" r="4" fill="#F4F1EA"/><circle cx="969.0" cy="147" r="4" fill="#F4F1EA"/><circle cx="1017.0" cy="102" r="4" fill="#F4F1EA"/><circle cx="1065.0" cy="117" r="4" fill="#F4F1EA"/><circle cx="1113.0" cy="72" r="4" fill="#F4F1EA"/>
+<rect x="60" y="78" width="44" height="5" rx="2" fill="#F2A541"/>
+<text x="60" y="150" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#F4F1EA">Kyoungmin Lee</text>
+<text x="60" y="198" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="26" font-weight="600" fill="#F2A541">Marketing &amp; BI Analyst</text>
+<text x="60" y="238" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="18" fill="#9AA8BA">Campaign Performance · Customer Analytics · Dashboards</text>
+<text x="60" y="272" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA8BA">M.S. Business Analytics &amp; AI · University of Maryland, Smith · Dec 2026</text>
+</svg>
