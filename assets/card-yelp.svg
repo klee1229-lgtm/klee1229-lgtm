@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260">
-<rect x="1" y="1" width="558" height="258" rx="14" fill="#16263D" stroke="#24384F" stroke-width="2"/>
-<rect x="1" y="1" width="6" height="258" rx="3" fill="#F2A541"/>
-<text x="32" y="42" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="#5FB3B3">01 · CLASSIFICATION</text>
-<rect x="436" y="24" width="92" height="26" rx="13" fill="#F2A541"/><text x="482" y="42" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#0F1B2D">1st place</text>
-<text x="32" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#F2A541">1.58M</text>
-<text x="32" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA8BA">reviews modeled with LightGBM</text>
-<text x="32" y="172" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F4F1EA">Yelp Review Classification</text>
-<text x="32" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA8BA">75.7% true positive rate · 114 features</text>
-<rect x="32" y="212" width="66" height="26" rx="13" fill="#24384F"/><text x="65" y="230" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F4F1EA">Python</text><rect x="106.4" y="212" width="83" height="26" rx="13" fill="#24384F"/><text x="148" y="230" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F4F1EA">LightGBM</text>
+<rect x="1" y="1" width="558" height="258" rx="14" fill="#FFFFFF" stroke="#E8E2D8" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="258" rx="3" fill="#C96F1A"/>
+<text x="32" y="42" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="#2F8F8F">01 · CLASSIFICATION</text>
+<rect x="436" y="24" width="92" height="26" rx="13" fill="#F9E3C8"/><text x="482" y="42" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#8A4B0F">1st place</text>
+<text x="32" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#C96F1A">1.58M</text>
+<text x="32" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5B6675">reviews modeled with LightGBM</text>
+<text x="32" y="172" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1F2A37">Yelp Review Classification</text>
+<text x="32" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5B6675">75.7% true positive rate · 114 features</text>
+<rect x="32" y="212" width="66" height="26" rx="13" fill="#F1ECE4"/><text x="65" y="230" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1F2A37">Python</text><rect x="106.4" y="212" width="83" height="26" rx="13" fill="#F1ECE4"/><text x="148" y="230" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1F2A37">LightGBM</text>
 </svg>

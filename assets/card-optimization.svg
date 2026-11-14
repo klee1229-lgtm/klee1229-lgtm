@@ -1,11 +1,11 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="560" height="260" viewBox="0 0 560 260">
-<rect x="1" y="1" width="558" height="258" rx="14" fill="#16263D" stroke="#24384F" stroke-width="2"/>
-<rect x="1" y="1" width="6" height="258" rx="3" fill="#F2A541"/>
-<text x="32" y="42" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="#5FB3B3">06 · OPTIMIZATION</text>
+<rect x="1" y="1" width="558" height="258" rx="14" fill="#FFFFFF" stroke="#E8E2D8" stroke-width="2"/>
+<rect x="1" y="1" width="6" height="258" rx="3" fill="#C96F1A"/>
+<text x="32" y="42" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" font-weight="600" letter-spacing="1.5" fill="#2F8F8F">06 · OPTIMIZATION</text>
 
-<text x="32" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#F2A541">450%</text>
-<text x="32" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#9AA8BA">above the $10K/day baseline (team result)</text>
-<text x="32" y="172" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#F4F1EA">Supply Chain Optimization</text>
-<text x="32" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#9AA8BA">Pricing + warehouse models · integer programming</text>
-<rect x="32" y="212" width="50" height="26" rx="13" fill="#24384F"/><text x="57" y="230" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#F4F1EA">AMPL</text>
+<text x="32" y="108" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="52" font-weight="800" fill="#C96F1A">450%</text>
+<text x="32" y="134" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="15" fill="#5B6675">above the $10K/day baseline (team result)</text>
+<text x="32" y="172" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="22" font-weight="700" fill="#1F2A37">Supply Chain Optimization</text>
+<text x="32" y="196" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#5B6675">Pricing + warehouse models · integer programming</text>
+<rect x="32" y="212" width="50" height="26" rx="13" fill="#F1ECE4"/><text x="57" y="230" text-anchor="middle" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="13" fill="#1F2A37">AMPL</text>
 </svg>
