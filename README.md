@@ -25,4 +25,4 @@ Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). 
 
 ### Stack
 
-<img src="assets/stack.svg" width="60%" alt="SQL, Python, R, BigQuery, Tableau, Power BI, Excel, pandas, scikit-learn, LightGBM, AMPL, Apps Script, GA4, Brandwatch"/>
+<img src="assets/stack.svg" width="100%" alt="SQL, Python, R, BigQuery, Tableau, Power BI, Excel, pandas, scikit-learn, LightGBM, AMPL, Apps Script, GA4, Brandwatch"/>
