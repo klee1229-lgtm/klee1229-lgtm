@@ -1,11 +1,11 @@
-<img src="assets/banner.svg" width="100%" alt="Kyoungmin Lee, Marketing & BI Analyst"/>
+<img src="assets/banner.svg" width="100%" alt="Kyoungmin Lee, Business Intelligence Analyst"/>
 
 <p align="center">
   <a href="https://www.kyoungminleeportfolio.com/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/kyoungmin-lee-89b762257">LinkedIn</a>
 </p>
 
-I build the dashboards and reporting that show whether marketing actually worked.
+I build SQL data models, dashboards, and reports that help teams make decisions.
 Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). GA4 certified.
 
 ### Projects

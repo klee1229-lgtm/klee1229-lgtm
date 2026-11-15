@@ -1,9 +1,9 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="300" viewBox="0 0 1200 300">
 <rect x="0.5" y="0.5" width="1199" height="299" fill="#FFFFFF" stroke="#E6E2DB"/>
-<text x="70" y="92" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="5" fill="#A8834A">MARKETING &amp; BI ANALYST</text>
+<text x="70" y="92" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" font-weight="600" letter-spacing="5" fill="#A8834A">BUSINESS INTELLIGENCE ANALYST</text>
 <text x="66" y="168" font-family="Georgia, 'Times New Roman', serif" font-size="72" fill="#141414">Kyoungmin Lee</text>
 <line x1="70" y1="198" x2="130" y2="198" stroke="#A8834A" stroke-width="2"/>
-<text x="70" y="236" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#6B6B6B">Campaign Performance  ·  Customer Analytics  ·  Dashboards</text>
+<text x="70" y="236" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="17" fill="#6B6B6B">SQL  ·  Data Modeling  ·  Dashboards  ·  Reporting</text>
 <text x="70" y="262" font-family="-apple-system, 'Segoe UI', Helvetica, Arial, sans-serif" font-size="14" fill="#6B6B6B">M.S. Business Analytics &amp; AI, University of Maryland, Smith School  ·  2026</text>
 <line x1="820" y1="220" x2="1135" y2="220" stroke="#E6E2DB"/>
 <polyline points="820,200 865,185 910,192 955,160 1000,168 1045,130 1090,138 1135,100" fill="none" stroke="#141414" stroke-width="1.5"/>
