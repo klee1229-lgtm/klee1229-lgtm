@@ -1,4 +1,4 @@
-<img src="assets/banner.svg" width="100%" alt="Kyoungmin Lee, Data Analyst and Business Intelligence"/>
+<img src="assets/banner-v3.svg" width="100%" alt="Kyoungmin Lee, Data Analyst and Business Intelligence"/>
 
 <p align="center">
   <a href="https://www.kyoungminleeportfolio.com/">Portfolio</a> ·
