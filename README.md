@@ -15,7 +15,7 @@ Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). 
   <a href="https://github.com/klee1229-lgtm/wmata-transit-performance"><img src="assets/card-wmata-v5.svg" width="49%" alt="WMATA Metrobus Performance"/></a>
 </p>
 <p>
-  <a href="https://github.com/klee1229-lgtm/airline-fare-analysis"><img src="assets/card-airline-v4.svg" width="49%" alt="Airline Fare Analysis"/></a>
+  <a href="https://github.com/klee1229-lgtm/airline-fare-analysis"><img src="assets/card-airline-v5.svg" width="49%" alt="Airline Fare Analysis"/></a>
   <a href="https://github.com/klee1229-lgtm/chicago-traffic-safety"><img src="assets/card-chicago-v4.svg" width="49%" alt="Chicago Traffic Safety"/></a>
 </p>
 <p>
