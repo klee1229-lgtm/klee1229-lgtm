@@ -20,7 +20,7 @@ Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). 
 </p>
 <p>
   <a href="https://github.com/klee1229-lgtm/goodreads-best-books"><img src="assets/card-goodreads-v4.svg" width="49%" alt="Goodreads Best Books Ever"/></a>
-  <img src="assets/card-optimization-v4.svg" width="49%" alt="Supply Chain Optimization"/>
+  <a href="https://github.com/klee1229-lgtm/supply-chain-optimization"><img src="assets/card-optimization-v5.svg" width="49%" alt="Retail Network Optimization"/></a>
 </p>
 
 ### Stack
