@@ -12,7 +12,7 @@ Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). 
 
 <p>
   <img src="assets/card-yelp-v4.svg" width="49%" alt="Yelp Review Classification"/>
-  <img src="assets/card-wmata-v4.svg" width="49%" alt="WMATA Transit Performance"/>
+  <a href="https://github.com/klee1229-lgtm/wmata-transit-performance"><img src="assets/card-wmata-v5.svg" width="49%" alt="WMATA Metrobus Performance"/></a>
 </p>
 <p>
   <a href="https://github.com/klee1229-lgtm/airline-fare-analysis"><img src="assets/card-airline-v4.svg" width="49%" alt="Airline Fare Analysis"/></a>
