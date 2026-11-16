@@ -22,6 +22,9 @@ Co-author in the *Journal of Retailing and Consumer Services* (Elsevier, 2027). 
   <a href="https://github.com/klee1229-lgtm/goodreads-best-books"><img src="assets/card-goodreads-v4.svg" width="49%" alt="Goodreads Best Books Ever"/></a>
   <a href="https://github.com/klee1229-lgtm/supply-chain-optimization"><img src="assets/card-optimization-v6.svg" width="49%" alt="Retail Network Optimization"/></a>
 </p>
+<p>
+  <a href="https://github.com/klee1229-lgtm/insurance_fraud"><img src="assets/card-fraud-v1.svg" width="49%" alt="Insurance Fraud Detection"/></a>
+</p>
 
 ### Stack
 
